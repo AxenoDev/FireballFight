@@ -1,0 +1,5 @@
+main: me.axeno.fireballfight.FireballFight
+version: 1.0.0
+name: FireballFight
+author: Axeno
+api-version: 1.13
